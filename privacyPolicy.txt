@@ -1,0 +1,24 @@
+Simplified Privacy Policy of the "Speed Monitor" Application
+
+We highly value the privacy of our users and are committed to protecting their personal information. The key points of our privacy policy are outlined below:
+
+1. Information Collection:
+- We do not collect or store any personal information such as names or email addresses.
+- We only use the Google Maps service to measure speed within the application.
+
+2. Use of Information:
+- We utilize Google Maps information to provide speed measurements to users within the application.
+- No other information is used for purposes such as customization or advertisements.
+
+3. Information Sharing:
+- We do not share or sell any personal information to third parties.
+
+4. Information Protection:
+- We take necessary measures to protect the information used within the application and ensure its confidentiality and security.
+
+5. External Links:
+- The application does not contain any external links or services.
+
+Please note that this simplified policy applies only to the aspects of information collection and usage described above. If you require more detailed information about the complete privacy policy of the application, please refer to the official documentation and privacy policy available within the application.
+
+This policy was created on July 2, 2024, and is effective from that date.
